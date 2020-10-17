@@ -8,3 +8,5 @@
 >- Set it's new MAC address
 
 >*This is currently runnable only on UNIX environment*
+
+*Update - 1 has changed the input syntax and now supports command-line arguments*
