@@ -6,3 +6,5 @@
 >- Run mac_changer.py
 >- Set the network interface
 >- Set it's new MAC address
+
+>*This is currently runnable only on UNIX environment*
