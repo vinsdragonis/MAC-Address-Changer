@@ -7,7 +7,7 @@
 >3. Set the network interface
 >4. Set it's new MAC address
 
->*This is supported only on UNIX environment*
+*This is supported only on UNIX environment*
 
 *Update - 1 has changed the input syntax and now supports command-line arguments*
 
